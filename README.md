@@ -6,4 +6,6 @@ entahlah intinya yaudah.
         country: "Isekai",
         bio: "I do not know."
     }
-},```
+},
+
+``` balxzz ajg
