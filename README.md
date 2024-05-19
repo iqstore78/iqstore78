@@ -7,6 +7,3 @@ entahlah intinya yaudah.
         bio: "I do not know."
     }
 },
-
-balxzz ajg 
-<href= "balxzz.vetcel.app"> pencet jawa</href>
