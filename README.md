@@ -1,6 +1,6 @@
 entahlah intinya yaudah.
 
-```const balxzz = () => {
+const balxzz = () => {
     return {
         name: "iqbal" | "balxzz",
         country: "Isekai",
@@ -8,4 +8,5 @@ entahlah intinya yaudah.
     }
 },
 
-```balxzz ajg```
+balxzz ajg 
+<href= "balxzz.vetcel.app"> pencet jawa</href>
