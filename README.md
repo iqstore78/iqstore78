@@ -1,6 +1,6 @@
 entahlah intinya yaudah.
 
-const balxzz = () => {
+```const balxzz = () => {
     return {
         name: "iqbal" | "balxzz",
         country: "Isekai",
